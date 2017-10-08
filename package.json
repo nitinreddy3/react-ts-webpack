@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "script": {
+  "scripts": {
     "start":"webpack-dev-server -w --config webpack/webpack.config.js"
   },
   "dependencies": {
